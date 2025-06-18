@@ -1,12 +1,46 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Caio Santana 👋</h1>
 
+<p align="center">
+  💻 Estudante de Sistemas de Informação | 🔍 Em busca da primeira oportunidade na área de TI
+</p>
 
-🔭 Em busca da minha primeira oportunidade profissional na área de Tecnologia da Informação.
+---
 
-🌱 Atualmente me dedicando ao aprendizado de SQL, Python e Power BI, com foco em análise de dados e automação.
+### 📚 Sobre mim
 
-💡 Interessado em projetos que envolvam dados, soluções práticas e inovação.
+🎓 Atualmente estudando **SQL**, **Python** e **Power BI** com foco em análise de dados e automação.  
+🚀 Apaixonado por aprender novas tecnologias e por soluções práticas e eficientes.  
+💡 Gosto de trabalhar com dados, resolver problemas e criar coisas úteis.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcRzBzBfVDrJLtcWhzGBNXxkzCscZcxCRMXPDjXWljhsLwsRGzMZfGkGTJfmKqKJLnvncgWxH) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/caiosantana3127) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiodesantana)
+---
 
+### 🛠️ Tecnologias e Ferramentas
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/seuusuario)
+
+---
+
+### ✨ Repositórios em destaque
+
+🔗 [Portfólio Web](https://github.com/CAIO-SANTANA3127/Portifolio)  
+🔗 [Projeto Python com Flask](link-do-projeto)  
+🔗 [Dashboards com Power BI](link-do-projeto)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIO-SANTANA3127&layout=compact&theme=radical" />
+</p>
