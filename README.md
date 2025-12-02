@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Estudante de Sistemas de Informação</strong> • <em>Futuro profissional de Tecnologia</em> <br>
-  Em busca da minha primeira oportunidade na área de <strong>TI</strong>
 </p>
 
 ---
