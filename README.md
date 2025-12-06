@@ -1,49 +1,18 @@
-<h1 align="center">Caio Santana 👨‍💻</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Caio+Santana;Desenvolvedor+Full+Stack;Analista+de+Dados" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🚀 Desenvolvedor Full Stack | Analista de Dados | Estudante de Sistemas de Informação</h3>
 
 <p align="center">
-  <strong>Estudante de Sistemas de Informação</strong> • <em>Futuro profissional de Tecnologia</em> <br>
+  <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/SEU-USUARIO"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👋 Sobre mim
+### 👨‍💻 Sobre mim
 
-🎓 Atualmente cursando **Sistemas de Informação**  
-📍 Localizado no Brasil  
-📊 Me dedicando ao aprendizado de **SQL**, **Python**, **Power BI** e **automação**  
-🚀 Focado em projetos que envolvem dados, soluções práticas e inovação  
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
----
-
-### 💼 Projetos em Destaque
-
-- 🔗 [**Portfólio Web Pessoal**](https://github.com/CAIO-SANTANA3127/Portifolio) — HTML, CSS e JS com design responsivo
-- 🔗 Projeto com Python e Flask (em construção)
-- 🔗 Dashboard Power BI para análise de dados (em breve)
-
----
-
-### 📫 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-USUARIO)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-USUARIO)
-
----
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAIO-SANTANA3127&show_icons=true&theme=radical" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIO-SANTANA3127&layout=compact&theme=radical" width="300"/>
-</p>
+Desenvolvedor com experiência em **aplicações web full stack**, **análise de dados** e **automação de processos**. Atualmente trabalhando na **2D Consultores**, onde desenvolvo soluções empresariais envolvendo integração com APIs, dashboards analíticos e sistemas de gestão.
+```python
