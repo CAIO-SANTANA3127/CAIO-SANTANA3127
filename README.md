@@ -125,7 +125,7 @@ Site responsivo desenvolvido com HTML5, CSS3 e JavaScript vanilla apresentando p
 
 ### 🎯 Foco Atual
 
-- 🔭 Desenvolvendo soluções empresariais na **2D Consultores**
+- 🔭 Desenvolvendo soluções empresariais
 - 🌱 Aprofundando conhecimentos em **Docker** e **PostgreSQL**
 - 👯 Buscando colaborar em projetos **open source**
 - 💬 Pergunte-me sobre **Flask, Power BI, WhatsApp APIs, Automação**
