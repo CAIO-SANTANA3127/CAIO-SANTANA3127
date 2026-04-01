@@ -14,8 +14,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Desenvolvedor com experiência em **aplicações web full stack**, **análise de dados** e **automação de processos**. Atualmente trabalhando na **2D Consultores**, onde desenvolvo soluções empresariais envolvendo integração com APIs, dashboards analíticos e sistemas de gestão.
-```python
+Desenvolvedor de Software com experiência prática em desenvolvimento de aplicações web, análise de dados e automação de processos. Já atuei na criação de soluções completas, incluindo integração com APIs, construção de dashboards e sistemas de gestão. Busco constantemente evoluir tecnicamente e desenvolver soluções que gerem impacto real no negócio.
 class Desenvolvedor:
     def __init__(self):
         self.nome = "Caio Santana"
