@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Caio+Santana;Desenvolvedor+Full+Stack;Analista+de+Dados" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🚀 Desenvolvedor Full Stack | Analista de Dados | Estudante de Sistemas de Informação</h3>
+<h3 align="center">Desenvolvedor Full Stack | Analista de Dados | Estudante de Sistemas de Informação</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/SEU-USUARIO"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### Sobre mim: 
 
 Desenvolvedor de Software com experiência prática em desenvolvimento de aplicações web, análise de dados e automação de processos. Já atuei na criação de soluções completas, incluindo integração com APIs, construção de dashboards e sistemas de gestão. Busco constantemente evoluir tecnicamente e desenvolver soluções que gerem impacto real no negócio.
 ```python
@@ -33,7 +33,7 @@ dev.dizer_oi()
 
 ---
 
-### 🛠️ Stack Tecnológica
+###  Stack Tecnológica:
 
 #### **Backend & Databases**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -64,7 +64,7 @@ dev.dizer_oi()
 
 ---
 
-### 💼 Projetos em Destaque
+### Projetos em Destaque:
 
 <details>
 <summary><b>🔹 ContractPro - Sistema SaaS Multi-Tenant</b></summary>
@@ -110,7 +110,7 @@ Site responsivo desenvolvido com HTML5, CSS3 e JavaScript vanilla apresentando p
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats:
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CAIO-SANTANA3127&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -123,17 +123,17 @@ Site responsivo desenvolvido com HTML5, CSS3 e JavaScript vanilla apresentando p
 
 ---
 
-### 🎯 Foco Atual
+###  Foco Atual
 
-- 🔭 Desenvolvendo soluções empresariais
-- 🌱 Aprofundando conhecimentos em **Docker** e **PostgreSQL**
-- 👯 Buscando colaborar em projetos **open source**
-- 💬 Pergunte-me sobre **Flask, Power BI, WhatsApp APIs, Automação**
-- ⚡ Curiosidade: Adoro criar soluções que automatizam processos repetitivos
+- Desenvolvendo soluções empresariais
+- Aprofundando conhecimentos em **Docker** e **PostgreSQL**
+- Buscando colaborar em projetos **open source**
+- Pergunte-me sobre **Flask, Power BI, WhatsApp APIs, Automação**
+- Curiosidade: Adoro criar soluções que automatizam processos repetitivos
 
 ---
 
-### 📈 Atividade Recente
+### Atividade Recente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
@@ -145,9 +145,9 @@ Site responsivo desenvolvido com HTML5, CSS3 e JavaScript vanilla apresentando p
   
   <br><br>
   
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i> "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
   
   <br><br>
   
-  <sub>⭐ From <a href="https://github.com/CAIO-SANTANA3127">CAIO-SANTANA3127</a></sub>
+  <sub>From <a href="https://github.com/CAIO-SANTANA3127">CAIO-SANTANA3127</a></sub>
 </div>
